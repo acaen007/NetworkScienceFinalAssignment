@@ -1,0 +1,23 @@
+# Node
+node_modules/
+dist/
+.next/
+
+# Expo
+android/
+ios/
+web-build/
+*.expo/
+
+# Python
+__pycache__/
+*.pyc
+env/
+
+# Environment files
+.env.local
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db

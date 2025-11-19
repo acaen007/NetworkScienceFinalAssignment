@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "ManyWorlds",
+    "slug": "manyworlds",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/avatar.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/avatar.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/avatar.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/avatar.png"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

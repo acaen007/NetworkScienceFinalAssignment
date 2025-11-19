@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Build web
+        run: pnpm --filter @manyworlds/web build
+
+      - name: Lint (placeholder)
+        run: echo "Add lint scripts to the packages and enable linting here"
+
+      - name: Run tests (placeholder)
+        run: echo "Add tests to your packages and enable testing here"

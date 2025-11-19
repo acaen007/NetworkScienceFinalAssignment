@@ -1,0 +1,95 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: mw_postgres
+    environment:
+      POSTGRES_USER: mw
+      POSTGRES_PASSWORD: mwpass
+      POSTGRES_DB: manyworlds
+    ports: [ "5432:5432" ]
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mw -d manyworlds"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  redis:
+    image: redis:7-alpine
+    container_name: mw_redis
+    ports: [ "6379:6379" ]
+
+  meilisearch:
+    image: getmeili/meilisearch:latest
+    container_name: mw_meili
+    environment:
+      MEILI_MASTER_KEY: "devkey"
+    ports: [ "7700:7700" ]
+    volumes:
+      - meili_data:/meili_data
+
+  minio:
+    image: minio/minio:latest
+    container_name: mw_minio
+    command: server /data --console-address ":9001"
+    environment:
+      MINIO_ROOT_USER: minio
+      MINIO_ROOT_PASSWORD: miniopass
+    ports: [ "9000:9000", "9001:9001" ]
+    volumes:
+      - minio_data:/data
+
+  ingestion:
+    build: ../services/ingestion
+    container_name: mw_ingestion
+    environment:
+      - DATABASE_URL=postgresql://mw:mwpass@postgres:5432/manyworlds
+      - REDIS_URL=redis://redis:6379
+      - MEILI_MASTER_KEY=devkey
+      - MEILI_URL=http://meilisearch:7700
+      - MINIO_ROOT_USER=minio
+      - MINIO_ROOT_PASSWORD=miniopass
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_SECURE=false
+    depends_on:
+      - postgres
+      - redis
+      - meilisearch
+      - minio
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8001
+    ports: [ "8001:8001" ]
+
+  nlp:
+    build: ../services/nlp
+    container_name: mw_nlp
+    environment:
+      - DATABASE_URL=postgresql://mw:mwpass@postgres:5432/manyworlds
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8002
+    ports: [ "8002:8002" ]
+
+  worker:
+    build: ../services/ingestion
+    container_name: mw_worker
+    environment:
+      - DATABASE_URL=postgresql://mw:mwpass@postgres:5432/manyworlds
+      - REDIS_URL=redis://redis:6379
+      - MEILI_MASTER_KEY=devkey
+      - MEILI_URL=http://meilisearch:7700
+      - MINIO_ROOT_USER=minio
+      - MINIO_ROOT_PASSWORD=miniopass
+      - MINIO_ENDPOINT=minio:9000
+      - MINIO_SECURE=false
+    depends_on:
+      - postgres
+      - redis
+    command: celery -A app.celery_app worker -l info
+
+volumes:
+  pg_data:
+  meili_data:
+  minio_data:

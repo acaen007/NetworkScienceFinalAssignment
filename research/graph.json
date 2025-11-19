@@ -1,0 +1,1030 @@
+{
+  "nodes": [
+    {
+      "key": "W1483683260",
+      "openalex_id": "W1483683260",
+      "doi": "https://doi.org/10.1002/9780470142844.ch7",
+      "title": "The Franck—Condon Principle in Bound‐Free Transitions",
+      "publication_year": 1985,
+      "host_venue": null,
+      "type": "other",
+      "authors": "Joel Tellinghuisen",
+      "cited_by_count": 106,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": null
+    },
+    {
+      "key": "W1965549565",
+      "openalex_id": "W1965549565",
+      "doi": "https://doi.org/10.1103/physrevlett.39.249",
+      "title": "Supergravity Has Positive Energy",
+      "publication_year": 1977,
+      "host_venue": null,
+      "type": "article",
+      "authors": "S. Deser, Claudio Teitelboim",
+      "cited_by_count": 136,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": null
+    },
+    {
+      "key": "W1976350686",
+      "openalex_id": "W1976350686",
+      "doi": "https://doi.org/10.1016/0550-3213(91)90180-6",
+      "title": "Elementary five-brane solutions of D = 10 supergravity",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. J. Duff, J.X. Lu",
+      "cited_by_count": 170,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2b931621232bbe904991eab0143b460ebc5393cb"
+    },
+    {
+      "key": "W1977008578",
+      "openalex_id": "W1977008578",
+      "doi": "https://doi.org/10.1016/0550-3213(78)90218-3",
+      "title": "Supersymmetries and their representations",
+      "publication_year": 1978,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Werner Nahm",
+      "cited_by_count": 833,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "1c9218d47196494dbe0131b43ac60d4f0b81d847"
+    },
+    {
+      "key": "W1992677247",
+      "openalex_id": "W1992677247",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00075-2",
+      "title": "Instantons on D-branes",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Cumrun Vafa",
+      "cited_by_count": 196,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "06b42aa1ce60d235255712e1d34236bd028e771e"
+    },
+    {
+      "key": "W1994752332",
+      "openalex_id": "W1994752332",
+      "doi": "https://doi.org/10.1016/0550-3213(88)90155-1",
+      "title": "Supermembranes and the signature of spacetime",
+      "publication_year": 1988,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. P. Blencowe, M. J. Duff",
+      "cited_by_count": 120,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2c2d69e83882c377c9c516dd8f9f225b08263181"
+    },
+    {
+      "key": "W2001511269",
+      "openalex_id": "W2001511269",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00323-9",
+      "title": "D-branes and fat black holes",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Juan Maldacena, Leonard Susskind",
+      "cited_by_count": 264,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "de894edad24b3aa2ac8494297e80300021a54506"
+    },
+    {
+      "key": "W2023953089",
+      "openalex_id": "W2023953089",
+      "doi": "https://doi.org/10.1016/0550-3213(86)90552-3",
+      "title": "Operator content of two-dimensional conformally invariant theories",
+      "publication_year": 1986,
+      "host_venue": null,
+      "type": "article",
+      "authors": "John Cardy",
+      "cited_by_count": 1816,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "6d2509bad6adc37aaf785071aad2de2fd501188b"
+    },
+    {
+      "key": "W2030736355",
+      "openalex_id": "W2030736355",
+      "doi": "https://doi.org/10.1016/0550-3213(91)90074-8",
+      "title": "Worldsheet approach to heterotic instantons and solitons",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Curtis G. Callan, Jeffrey A. Harvey, Andrew Strominger",
+      "cited_by_count": 488,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "f213a8525aed313e8af371e5a068aa7d25390884"
+    },
+    {
+      "key": "W2032068406",
+      "openalex_id": "W2032068406",
+      "doi": "https://doi.org/10.1016/0550-3213(86)90016-7",
+      "title": "Self-duality for interacting fields: Covariant field equations for six-dimensional chiral supergravities",
+      "publication_year": 1986,
+      "host_venue": null,
+      "type": "article",
+      "authors": "L.J. Romans",
+      "cited_by_count": 161,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2c5aca4f8e318ec55a0d797bbb3f692d7c670187"
+    },
+    {
+      "key": "W2033586917",
+      "openalex_id": "W2033586917",
+      "doi": "https://doi.org/10.1016/0550-3213(90)90157-9",
+      "title": "Superstrings and solitons",
+      "publication_year": 1990,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Atish Dabholkar, G. W. Gibbons, Jeffrey A. Harvey, F. Ruiz Ruiz",
+      "cited_by_count": 464,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "9adb4a2c785d68f7c0d69f954807766dcf66c8c4"
+    },
+    {
+      "key": "W2033649663",
+      "openalex_id": "W2033649663",
+      "doi": "https://doi.org/10.1088/0264-9381/12/2/004",
+      "title": "Higher-dimensional resolution of dilatonic black-hole singularities",
+      "publication_year": 1995,
+      "host_venue": null,
+      "type": "article",
+      "authors": "G. W. Gibbons, Gary T. Horowitz, Paul Townsend",
+      "cited_by_count": 314,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "669753f038659d3a37aceded0b1dd3ae54763df4"
+    },
+    {
+      "key": "W2034183153",
+      "openalex_id": "W2034183153",
+      "doi": "https://doi.org/10.1016/0550-3213(91)90440-9",
+      "title": "Black strings and p-branes",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Gary T. Horowitz, Andrew Strominger",
+      "cited_by_count": 1112,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "c31b0e15651a41c728889333bbc06e7875780804"
+    },
+    {
+      "key": "W2040957967",
+      "openalex_id": "W2040957967",
+      "doi": "https://doi.org/10.1016/0550-3213(83)90582-5",
+      "title": "Supersymmetry in six dimensions",
+      "publication_year": 1983,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Paul Howe, Germán Sierra, Paul Townsend",
+      "cited_by_count": 222,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "9fdf8f2a58d7b11bfffdba672acd9a2e84fadbb0"
+    },
+    {
+      "key": "W2049808710",
+      "openalex_id": "W2049808710",
+      "doi": "https://doi.org/10.1016/0550-3213(91)90270-8",
+      "title": "Geometry of n = 2 strings",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Hirosi Ooguri, Cumrun Vafa",
+      "cited_by_count": 329,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "bf17ca6c6e2f75e03a6346e7cc52d7621d92cfbf"
+    },
+    {
+      "key": "W2052626565",
+      "openalex_id": "W2052626565",
+      "doi": "https://doi.org/10.1016/0550-3213(95)00287-3",
+      "title": "Massless black holes and conifolds in string theory",
+      "publication_year": 1995,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Andrew Strominger",
+      "cited_by_count": 722,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "87c9b5a9196f89d681c8b8d05b57f79f09059937"
+    },
+    {
+      "key": "W2053040732",
+      "openalex_id": "W2053040732",
+      "doi": "https://doi.org/10.1016/0375-9474(80)90548-5",
+      "title": "Collective quadrupole states of Xe, Ba and Ce in the interacting boson model",
+      "publication_year": 1980,
+      "host_venue": null,
+      "type": "article",
+      "authors": "G. Puddu, O. Schölten, Takaharu Otsuka",
+      "cited_by_count": 255,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "478952cc9cef8179a2eb1256944d01347a8d05f6"
+    },
+    {
+      "key": "W2053892631",
+      "openalex_id": "W2053892631",
+      "doi": "https://doi.org/10.1016/0370-2693(86)90760-4",
+      "title": "Anomalies and modular invariance in string theory",
+      "publication_year": 1986,
+      "host_venue": null,
+      "type": "article",
+      "authors": "A.N. Schellekens, Nicholas P. Warner",
+      "cited_by_count": 167,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "bd366f9395da9200f4aebda21e42825d2f5d34d2"
+    },
+    {
+      "key": "W2054704030",
+      "openalex_id": "W2054704030",
+      "doi": "https://doi.org/10.1103/physrevlett.78.1396",
+      "title": "Generalized Gradient Approximation Made Simple [Phys. Rev. Lett. 77, 3865 (1996)]",
+      "publication_year": 1997,
+      "host_venue": null,
+      "type": "article",
+      "authors": "John P. Perdew, Kieron Burke, Matthias Ernzerhof",
+      "cited_by_count": 13495,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": null
+    },
+    {
+      "key": "W2059707231",
+      "openalex_id": "W2059707231",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00026-0",
+      "title": "D-branes and topological field theories",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. Bershadsky, Cumrun Vafa, Vladimir Sadov",
+      "cited_by_count": 515,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "062dec0c160caf2114ba762b09668c7521bd7830"
+    },
+    {
+      "key": "W2065805883",
+      "openalex_id": "W2065805883",
+      "doi": "https://doi.org/10.1038/248030a0",
+      "title": "Black hole explosions?",
+      "publication_year": 1974,
+      "host_venue": null,
+      "type": "article",
+      "authors": "S. W. Hawking",
+      "cited_by_count": 5146,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2ee37960b8b4f18fdc8f9c7b8c3a7d5a6258f716"
+    },
+    {
+      "key": "W2066647172",
+      "openalex_id": "W2066647172",
+      "doi": "https://doi.org/10.1016/0370-2693(86)90547-2",
+      "title": "Monopoles of higher rank",
+      "publication_year": 1986,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Claudio Teitelboim",
+      "cited_by_count": 155,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "208f96f17627a4afe6601abe8367b4437e1ded4d"
+    },
+    {
+      "key": "W2067913463",
+      "openalex_id": "W2067913463",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00025-9",
+      "title": "Gas of D-branes and Hagedorn density of BPS states",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Cumrun Vafa",
+      "cited_by_count": 140,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "411030999990b35e45f540eb04c2ba2cab75a804"
+    },
+    {
+      "key": "W2070213159",
+      "openalex_id": "W2070213159",
+      "doi": "https://doi.org/10.1016/0370-2693(95)01390-3",
+      "title": "General class of BPS saturated dyonic black holes as exact superstring solutions",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Mirjam Cvetič, A.A. Tseytlin",
+      "cited_by_count": 130,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2af5306e46cfc595c3ba9c040cccafce34c3849a"
+    },
+    {
+      "key": "W2072363696",
+      "openalex_id": "W2072363696",
+      "doi": "https://doi.org/10.1016/0370-2693(91)90290-7",
+      "title": "The self-dual type IIB superthreebrane",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. J. Duff, J.X. Lu",
+      "cited_by_count": 163,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "baa5bb99f5a98d69cb2bc066939559290397014a"
+    },
+    {
+      "key": "W2075531644",
+      "openalex_id": "W2075531644",
+      "doi": "https://doi.org/10.1016/0550-3213(88)90565-2",
+      "title": "Loop corrections to superstring equations of motion",
+      "publication_year": 1988,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Curtis G. Callan, C. Lovelace, Chiara R. Nappi, S.A. Yost",
+      "cited_by_count": 360,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "5b9b9f7a4294e6f27d085535009a59e5f341c45a"
+    },
+    {
+      "key": "W2081657829",
+      "openalex_id": "W2081657829",
+      "doi": "https://doi.org/10.1016/0550-3213(95)00280-6",
+      "title": "A one-loop test of string duality",
+      "publication_year": 1995,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Cumrun Vafa, Edward Witten",
+      "cited_by_count": 265,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "01848c2b5c6b73191766ce1b616e54c599588796"
+    },
+    {
+      "key": "W2082588464",
+      "openalex_id": "W2082588464",
+      "doi": "https://doi.org/10.1016/0550-3213(75)90279-5",
+      "title": "All possible generators of supersymmetries of the S-matrix",
+      "publication_year": 1975,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Rudolf Haag, Jan T. Łopuszański, Martin F. Sohnius",
+      "cited_by_count": 1111,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "6382fd634342dc7d419845ac5df7636bfa7f145a"
+    },
+    {
+      "key": "W2086867460",
+      "openalex_id": "W2086867460",
+      "doi": "https://doi.org/10.1016/0550-3213(88)90006-5",
+      "title": "Black holes and membranes in higher-dimensional theories with dilaton fields",
+      "publication_year": 1988,
+      "host_venue": null,
+      "type": "article",
+      "authors": "G. W. Gibbons, Kei-ichi Maeda",
+      "cited_by_count": 1296,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "6de9dca06f8ae8593d7cb091a273804764687550"
+    },
+    {
+      "key": "W2086876977",
+      "openalex_id": "W2086876977",
+      "doi": "https://doi.org/10.1016/0370-2693(87)91323-2",
+      "title": "Superstrings in D=10 from supermembranes in D=11",
+      "publication_year": 1987,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. J. Duff, Paul Howe, T. Inami, K.S. Stelle",
+      "cited_by_count": 392,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "1e1197afb33b95ba1465502d0a1df7d4f9468ecf"
+    },
+    {
+      "key": "W2091089989",
+      "openalex_id": "W2091089989",
+      "doi": "https://doi.org/10.1016/0550-3213(95)00368-3",
+      "title": "Eleven-dimensional origin of string/string duality: a one-loop test",
+      "publication_year": 1995,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. J. Duff, James T. Liu, Ruben Minasian",
+      "cited_by_count": 425,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "d9163e9b6c1c7d81cc93bb81c2c7274475b4e088"
+    },
+    {
+      "key": "W2092840038",
+      "openalex_id": "W2092840038",
+      "doi": "https://doi.org/10.1016/0003-4916(86)90099-0",
+      "title": "The antisymmetric tensor field in superstring theory",
+      "publication_year": 1986,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Ryan Rohm, E Witten",
+      "cited_by_count": 244,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "7c5e772ed094c76e202b78c27613b17f166bc16a"
+    },
+    {
+      "key": "W2094974483",
+      "openalex_id": "W2094974483",
+      "doi": "https://doi.org/10.1016/0370-2693(79)90654-3",
+      "title": "Spontaneously broken N = 8 supergravity",
+      "publication_year": 1979,
+      "host_venue": null,
+      "type": "article",
+      "authors": "E. Cremmer, J. Scherk, John H. Schwarz",
+      "cited_by_count": 238,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "9ea2499c73a1859ff3c9582c5cc138ea267fc4de"
+    },
+    {
+      "key": "W2095263597",
+      "openalex_id": "W2095263597",
+      "doi": "https://doi.org/10.1016/0550-3213(82)90170-5",
+      "title": "Antigravitating black hole solitons with scalar hair in N=4 supergravity",
+      "publication_year": 1982,
+      "host_venue": null,
+      "type": "article",
+      "authors": "G. W. Gibbons",
+      "cited_by_count": 437,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "53dd65d6b8f25e0095f4bc2fc284931918a94baa"
+    },
+    {
+      "key": "W2131101882",
+      "openalex_id": "W2131101882",
+      "doi": "https://doi.org/10.1016/0550-3213(94)00411-7",
+      "title": "Self-interaction correction to black hole radiance",
+      "publication_year": 1995,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Per Kraus, Frank Wilczek",
+      "cited_by_count": 561,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "4025912936a28ff555908ac10ed0c4c7511565aa"
+    },
+    {
+      "key": "W2143935378",
+      "openalex_id": "W2143935378",
+      "doi": "https://doi.org/10.1016/0370-2693(89)90897-6",
+      "title": "Taming the conformal zoo",
+      "publication_year": 1989,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Gregory Moore, Nathan Seiberg",
+      "cited_by_count": 542,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "f37f3147350307659acd806b3edb07d579793522"
+    },
+    {
+      "key": "W2152579451",
+      "openalex_id": "W2152579451",
+      "doi": "https://doi.org/10.1016/0370-2693(89)90209-8",
+      "title": "Background duality of open-string models",
+      "publication_year": 1989,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Petr Hořava",
+      "cited_by_count": 305,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "2a6591b3c8d51ee4efd59f6af230352b9367fc85"
+    },
+    {
+      "key": "W2166579507",
+      "openalex_id": "W2166579507",
+      "doi": "https://doi.org/10.1016/0370-2693(91)91371-2",
+      "title": "Multi-membrane solutions of D = 11 supergravity",
+      "publication_year": 1991,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. J. Duff, K.S. Stelle",
+      "cited_by_count": 383,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "09184ac2171e27aca790d5f23959d127dad8c654"
+    },
+    {
+      "key": "W2479288992",
+      "openalex_id": "W2479288992",
+      "doi": "https://doi.org/10.1142/0277",
+      "title": "Supergravities in Diverse Dimensions",
+      "publication_year": 1989,
+      "host_venue": null,
+      "type": "book",
+      "authors": "Andi Muhammad Ikbal Salam, Erkut Sezgіn",
+      "cited_by_count": 172,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "f4def098198f65a9b9820dea105b1516e8e9d3e2"
+    },
+    {
+      "key": "W2972424502",
+      "openalex_id": "W2972424502",
+      "doi": "https://doi.org/10.2307/1269868",
+      "title": "The Asymptotic Theory of Extreme Order Statistics",
+      "publication_year": 1990,
+      "host_venue": null,
+      "type": "article",
+      "authors": "John E. Angus, János Galambos",
+      "cited_by_count": 1918,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": null
+    },
+    {
+      "key": "W3089601595",
+      "openalex_id": "W3089601595",
+      "doi": "https://doi.org/10.1103/physrevd.102.124008",
+      "title": "Radiative contribution to classical gravitational scattering at the third order in <mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\"><mml:mi>G</mml:mi></mml:math>",
+      "publication_year": 2020,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Thibault Damour",
+      "cited_by_count": 155,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": null
+    },
+    {
+      "key": "W3100280220",
+      "openalex_id": "W3100280220",
+      "doi": "https://doi.org/10.1016/0370-2693(95)01429-2",
+      "title": "The power of M theory",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "John H. Schwarz",
+      "cited_by_count": 253,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "b2a1e1ee71ec6ce87eb24d4d0cdb735706741e29"
+    },
+    {
+      "key": "W3100399351",
+      "openalex_id": "W3100399351",
+      "doi": "https://doi.org/10.1016/0550-3213(94)90097-3",
+      "title": "A strong coupling test of S-duality",
+      "publication_year": 1994,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Cumrun Vafa, Edward Witten",
+      "cited_by_count": 1013,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "07762d6e7c225067693de5ef2e09215d805bff35"
+    },
+    {
+      "key": "W3101486579",
+      "openalex_id": "W3101486579",
+      "doi": "https://doi.org/10.1016/0370-2693(96)00738-1",
+      "title": "Nonextremal black hole microstates and U-duality",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Gary T. Horowitz, Juan Maldacena, Andrew Strominger",
+      "cited_by_count": 211,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "9215133cdacbff6c6a49fc39fcb6e0f2fef6a0b9"
+    },
+    {
+      "key": "W3102197304",
+      "openalex_id": "W3102197304",
+      "doi": "https://doi.org/10.1016/0370-2693(96)01127-6",
+      "title": "Absorption versus decay of black holes in string theory and T-symmetry",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Avinash Dhar, Gautam Mandal, Spenta R. Wadia",
+      "cited_by_count": 144,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "035f31859248938188a1062225e3b6070213604f"
+    },
+    {
+      "key": "W3102865305",
+      "openalex_id": "W3102865305",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00172-1",
+      "title": "Evidence for F-theory",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Cumrun Vafa",
+      "cited_by_count": 1247,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "419c12d190c6aa092478369bd3df2d352cb3905a"
+    },
+    {
+      "key": "W3102902002",
+      "openalex_id": "W3102902002",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00024-7",
+      "title": "D-strings on D-manifolds",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "M. Bershadsky, Cumrun Vafa, Vladimir Sadov",
+      "cited_by_count": 217,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "57383e49629c38bf8a2e521a2cd714be08db3d30"
+    },
+    {
+      "key": "W3103130695",
+      "openalex_id": "W3103130695",
+      "doi": "https://doi.org/10.1016/0550-3213(95)00610-9",
+      "title": "Bound states of strings and p-branes",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Edward Witten",
+      "cited_by_count": 1268,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "e534eb270c44be345828bbaf7d11951550688b87"
+    },
+    {
+      "key": "W3103311487",
+      "openalex_id": "W3103311487",
+      "doi": "https://doi.org/10.1016/0370-2693(96)00345-0",
+      "title": "Microscopic origin of the Bekenstein-Hawking entropy",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Andrew Strominger, Cumrun Vafa",
+      "cited_by_count": 2527,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "e68964ccaf63813c445d579f1fc60c0d1bfcaea4"
+    },
+    {
+      "key": "W3103878630",
+      "openalex_id": "W3103878630",
+      "doi": "https://doi.org/10.1016/0550-3213(92)90254-9",
+      "title": "Black holes as elementary particles",
+      "publication_year": 1992,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Christoph F. E. Holzhey, Frank Wilczek",
+      "cited_by_count": 316,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "d7e5e9a0f92fe4558e2a56b15c061ae363e4083c"
+    },
+    {
+      "key": "W3104934372",
+      "openalex_id": "W3104934372",
+      "doi": "https://doi.org/10.1016/0550-3213(94)90206-2",
+      "title": "The instability of charged black strings and p-branes",
+      "publication_year": 1994,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Ruth Gregory, Raymond Laflamme",
+      "cited_by_count": 277,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "f3bde11c908f8d8dd0c39e84d2559b19f038d651"
+    },
+    {
+      "key": "W3105069688",
+      "openalex_id": "W3105069688",
+      "doi": "https://doi.org/10.1016/0550-3213(96)00295-7",
+      "title": "Entropy of near-extremal black p-branes",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Igor R. Klebanov, A.A. Tseytlin",
+      "cited_by_count": 355,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "1c41d0327b8f628c7921f6aae1fc83aef97404d1"
+    },
+    {
+      "key": "W3105153511",
+      "openalex_id": "W3105153511",
+      "doi": "https://doi.org/10.1016/0370-2693(96)00712-5",
+      "title": "Open p-branes",
+      "publication_year": 1996,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Andrew Strominger",
+      "cited_by_count": 576,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "0586591591d176efbbbed43c5de7b571fcb201b7"
+    },
+    {
+      "key": "W4249956767",
+      "openalex_id": "W4249956767",
+      "doi": "https://doi.org/10.4310/atmp.1998.v2.n2.a1",
+      "title": "The large $N$ limit of superconformal field theories and supergravity",
+      "publication_year": 1998,
+      "host_venue": null,
+      "type": "article",
+      "authors": "Juan Maldacena",
+      "cited_by_count": 13095,
+      "is_retracted": false,
+      "source": "mixed",
+      "s2_paper_id": "680e9d8a8eece6f1c228ddb3bf778d5e48c06b01"
+    }
+  ],
+  "edges": [
+    {
+      "source": "W4249956767",
+      "target": "W3102197304"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W3105069688"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W2001511269"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W3101486579"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W3102865305"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W3103311487"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W3105153511"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W2034183153"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W2095263597"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W1977008578"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W2082588464"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W1483683260"
+    },
+    {
+      "source": "W4249956767",
+      "target": "W2479288992"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W3103130695"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W1992677247"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W2059707231"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W3102902002"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W2131101882"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W2067913463"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W3103878630"
+    },
+    {
+      "source": "W3102197304",
+      "target": "W2054704030"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2091089989"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W3100280220"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2070213159"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2033649663"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2072363696"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W1976350686"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2030736355"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2034183153"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2166579507"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2033586917"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2086876977"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2092840038"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W2066647172"
+    },
+    {
+      "source": "W3105069688",
+      "target": "W1965549565"
+    },
+    {
+      "source": "W2001511269",
+      "target": "W2067913463"
+    },
+    {
+      "source": "W2001511269",
+      "target": "W2131101882"
+    },
+    {
+      "source": "W2001511269",
+      "target": "W1992677247"
+    },
+    {
+      "source": "W2001511269",
+      "target": "W3103878630"
+    },
+    {
+      "source": "W3101486579",
+      "target": "W2034183153"
+    },
+    {
+      "source": "W3101486579",
+      "target": "W2094974483"
+    },
+    {
+      "source": "W3101486579",
+      "target": "W3104934372"
+    },
+    {
+      "source": "W3101486579",
+      "target": "W3089601595"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2081657829"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2152579451"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2030736355"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2049808710"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2075531644"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W1994752332"
+    },
+    {
+      "source": "W3102865305",
+      "target": "W2972424502"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2131101882"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W3100399351"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2034183153"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2152579451"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2086867460"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2053892631"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2095263597"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2065805883"
+    },
+    {
+      "source": "W3103311487",
+      "target": "W2023953089"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2040957967"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2143935378"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2034183153"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2152579451"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2053040732"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2032068406"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2052626565"
+    },
+    {
+      "source": "W3105153511",
+      "target": "W2072363696"
+    }
+  ]
+}
